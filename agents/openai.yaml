@@ -1,0 +1,3 @@
+interface:
+  display_name: "Evidence Preserving Scientific Translation"
+  short_description: "Translate scientific papers with locked terms and source evidence"
